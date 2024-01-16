@@ -56,7 +56,7 @@ php path/to/google-ads-php/auth.php
 
 8. After approval, enter the state variable when prompted by the script.
 
-9. Enter the authorization code provided by the Google OAuth2 server.
+9. Next, enter the authorization code provided by the Google OAuth2 server.
 
 10. The script will output your refresh token. Copy this token.
 
