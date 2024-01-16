@@ -25,8 +25,7 @@ composer install
 ```
 cd path/to/google-ads-php/examples/Authentication
 ```
-3. Copy & open the auth.php file and set the REDIRECT_URI variable to your desired redirect URI. \
-<br />
+3. Copy & open the auth.php file and set the REDIRECT_URI variable to your desired redirect URI. 
 
 `private const REDIRECT_URI = 'INSERT_REDIRECT_URL_HERE';`
 
