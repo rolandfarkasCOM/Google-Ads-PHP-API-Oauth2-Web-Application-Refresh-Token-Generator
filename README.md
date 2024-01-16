@@ -12,11 +12,13 @@ Tested up to V15
 ## Prerequisites
 
 - PHP installed on your system.
-- Google Ads API PHP client library installed. You can install it using Composer:
+- Google Ads API PHP client library installed. 
 
 ```
 git clone https://github.com/googleads/google-ads-php.git
 ```
+
+- You can install it using Composer:
 
 ```
 composer install
