@@ -11,7 +11,7 @@ Tested up to V15
 
 ## Prerequisites
 
-- PHP installed on your system.
+- PHP installed on your system. (PHP 8.1 Required)
 - Google Ads API PHP client library installed. 
 
 ```
