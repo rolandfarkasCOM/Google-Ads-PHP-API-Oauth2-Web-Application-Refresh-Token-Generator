@@ -12,7 +12,7 @@ This PHP script allows you to generate an OAuth2 refresh token for the Google Ad
 - PHP installed on your system.
 - Google Ads API PHP client library installed. You can install it using Composer:
 
-```http
+```
 composer install
 ```
 
@@ -22,7 +22,7 @@ composer install
 
 2. Navigate to the directory where the script is located:
 
-```http
+```
 cd path/to/google-ads-php/examples/Authentication
 ```
 3. Copy & open the auth.php file and set the REDIRECT_URI variable to your desired redirect URI. \
@@ -32,12 +32,12 @@ cd path/to/google-ads-php/examples/Authentication
 
 4. Run the script:
 
-```http
+```
 php path/to/google-ads-php/examples/Authentication/auth.php
 ```
 or if you have copied the file into the google-ads-php root directory;
 
-```http
+```
 php path/to/google-ads-php/auth.php
 ```
 
