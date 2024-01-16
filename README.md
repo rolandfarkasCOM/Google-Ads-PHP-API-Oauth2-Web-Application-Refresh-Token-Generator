@@ -5,7 +5,9 @@
 
 ## Introduction
 
-This PHP script allows you to generate an OAuth2 refresh token for the Google Ads API using the Desktop application flow. The refresh token can be used to obtain access tokens for authenticating requests against the Google Ads API.
+This PHP script allows you to generate an OAuth2 refresh token for the Google Ads API using the Desktop application flow. The refresh token can be used to obtain access tokens for authenticating requests against the Google Ads API. 
+
+Tested up to V15
 
 ## Prerequisites
 
