@@ -15,6 +15,10 @@ Tested up to V15
 - Google Ads API PHP client library installed. You can install it using Composer:
 
 ```
+git clone https://github.com/googleads/google-ads-php.git
+```
+
+```
 composer install
 ```
 
