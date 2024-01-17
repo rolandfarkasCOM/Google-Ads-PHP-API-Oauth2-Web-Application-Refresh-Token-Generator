@@ -1,4 +1,5 @@
-[![ Apache License Version 2.0](https://img.shields.io/badge/license-apache-v2.svg)](https://www.apache.org/licenses/LICENSE-2.0)![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+[![ Apache License Version 2.0](https://img.shields.io/badge/license-apache-v2.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
 # Google Ads PHP API Oauth2 Web Application Refresh Token Generator
